@@ -1,0 +1,15 @@
+#NLTKインストール
+pip3 install nltk
+
+#NLTKデータセットのダウンロード
+①Pythonコンソールを起動する
+python
+
+②NLTK Downloader起動
+import nltk
+nltk.download()
+
+③「all」を選んで、Downloadボタンを押す
+
+#gensimインストール
+pip3 install gensim
